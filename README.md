@@ -1,2 +1,3 @@
-# NganJoekDoeloe
-Aplikasi Simulasi Pinjaman Online - proyek UTS
+UTS 
+NAMA : MUHAMMAD SYAHRUL
+NIM : 195410049
